@@ -13,7 +13,7 @@ After `vagrant up` browse to:
 You should see:
 
 ```
-Contragutlations!
+Congratulations!
 
 Ubuntu64-lamp7 is working!
 ```
